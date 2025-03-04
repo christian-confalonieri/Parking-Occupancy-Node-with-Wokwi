@@ -25,7 +25,7 @@ You can find all the details about the project in the [report](report/report.pdf
 
 <h2>Copyright and license</h2>
 
-This project is copyright 2022.
+This project is copyright 2025.
 
 Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
 
